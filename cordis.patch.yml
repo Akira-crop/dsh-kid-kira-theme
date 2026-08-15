@@ -1,0 +1,4 @@
+# Registers the browser-only Phantom Heist skin with the DSH web profile.
+- insert:
+    - id: ui-skin-phantom-heist
+      name: '@akira/dsh-client-ui-skin-phantom-heist'

@@ -1,0 +1,27 @@
+{
+  "name": "@akira/dsh-client-ui-skin-phantom-heist",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A blue-and-crimson Phantom Heist skin for DeepSeek Harness Web.",
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./skin.json": "./skin.json",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "inject": [],
+      "platform": "web"
+    }
+  },
+  "scripts": {
+    "build": "node ./build-v2.mjs"
+  },
+  "license": "UNLICENSED"
+}

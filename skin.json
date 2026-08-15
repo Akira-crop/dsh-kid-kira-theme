@@ -1,0 +1,17 @@
+{
+  "id": "phantom-heist",
+  "name": "基德 × 夜神月",
+  "nameEn": "KID × KIRA",
+  "author": "Akira",
+  "tagline": "怪盗的冷蓝与审判者的猩红。",
+  "description": "以怪盗基德与夜神月为唯一人物的 DeepSeek Harness Web 独立主题，包含蓝银／黑红双阵营界面、侧栏、顶栏和输入框装饰。",
+  "tags": ["anime", "blue", "crimson", "phantom", "glass"],
+  "accent": "#6aa7ff",
+  "bodyAttr": "data-dsh-phantom-heist",
+  "package": "@akira/dsh-client-ui-skin-phantom-heist",
+  "wiring": {
+    "id": "ui-skin-phantom-heist",
+    "bundleWired": false
+  },
+  "order": 20
+}
