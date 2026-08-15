@@ -2,6 +2,10 @@
 
 一个为 DeepSeek Harness Web 制作的基德 × 夜神月双主角主题。
 
+## 效果预览
+
+![KID × KIRA 主题效果](docs/theme-preview.png)
+
 - 怪盗基德侧采用冷蓝、银白和扑克牌元素
 - 夜神月侧采用黑红、审判与笔记元素
 - 自定义侧栏、顶栏、新会话按钮、会话列表和输入框
@@ -25,5 +29,5 @@ the local package to the DSH web profile if its lockfile needs refreshing.
 ## Artwork notice
 
 The background artwork was supplied by the repository owner. No rights to
-redistribute the artwork are granted by this repository. Keep the repository
-private unless you have permission from the relevant rights holders.
+redistribute the artwork are granted by this repository. Make sure you have
+permission from the relevant rights holders before redistributing or reusing it.
